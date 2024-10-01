@@ -1,0 +1,6 @@
+Broj: 212, Zbir cifara: 5
+Broj: 123, Zbir cifara: 6
+Broj: 456, Zbir cifara: 15
+Broj: 798, Zbir cifara: 24
+Broj: 159, Zbir cifara: 15
+Broj: 666, Zbir cifara: 18
