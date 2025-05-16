@@ -1,0 +1,12 @@
+Oktobar2018_Prva: 1: prva datoteka 1
+Oktobar2018_Druga: 1: druga datoteka 2
+Oktobar2018_Prva: 2: prva datoteka 3
+Oktobar2018_Druga: 2: druga datoteka 4
+Oktobar2018_Prva: 3: prva datoteka 5
+Oktobar2018_Druga: 3: druga datoteka 6
+Oktobar2018_Prva: 4: prva datoteka 7
+Oktobar2018_Druga: 4: druga datoteka 8
+Oktobar2018_Prva: 5: prva datoteka 9
+Oktobar2018_Druga: 5: druga datoteka 10
+Oktobar2018_Prva: 6: prva datoteka 11
+Oktobar2018_Druga: 6: druga datoteka 12

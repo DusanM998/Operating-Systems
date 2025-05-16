@@ -1,0 +1,78 @@
+Prva_primer1.txt:1:1
+Druga_primer2.txt:1:21
+Prva_primer1.txt:2:2
+Druga_primer2.txt:2:22
+Prva_primer1.txt:3:3
+Druga_primer2.txt:3:23
+Prva_primer1.txt:4:4
+Druga_primer2.txt:4:24
+Prva_primer1.txt:5:5
+Druga_primer2.txt:5:25
+Prva_primer1.txt:6:6
+Druga_primer2.txt:6:26
+Prva_primer1.txt:7:7
+Druga_primer2.txt:7:27
+Prva_primer1.txt:8:8
+Druga_primer2.txt:8:28
+Prva_primer1.txt:9:9
+Druga_primer2.txt:9:29
+Prva_primer1.txt:10:10
+Druga_primer2.txt:10:30
+Prva_primer1.txt:11:11
+
+Prva_primer1.txt:12:12
+
+Prva_primer1.txt:13:13
+
+Prva_primer1.txt:14:14
+
+Prva_primer1.txt:15:15
+
+Prva_primer1.txt:16:16
+
+Prva_primer1.txt:17:17
+
+Prva_primer1.txt:18:18
+
+Prva_primer1.txt:19:19
+
+Prva_primer1.txt:20:20
+Prva primer1.txt:1:1
+Druga primer2.txt:1:21
+Prva primer1.txt:2:2
+Druga primer2.txt:2:22
+Prva primer1.txt:3:3
+Druga primer2.txt:3:23
+Prva primer1.txt:4:4
+Druga primer2.txt:4:24
+Prva primer1.txt:5:5
+Druga primer2.txt:5:25
+Prva primer1.txt:6:6
+Druga primer2.txt:6:26
+Prva primer1.txt:7:7
+Druga primer2.txt:7:27
+Prva primer1.txt:8:8
+Druga primer2.txt:8:28
+Prva primer1.txt:9:9
+Druga primer2.txt:9:29
+Prva primer1.txt:10:10
+Druga primer2.txt:10:30
+Prva primer1.txt:11:11
+
+Prva primer1.txt:12:12
+
+Prva primer1.txt:13:13
+
+Prva primer1.txt:14:14
+
+Prva primer1.txt:15:15
+
+Prva primer1.txt:16:16
+
+Prva primer1.txt:17:17
+
+Prva primer1.txt:18:18
+
+Prva primer1.txt:19:19
+
+Prva primer1.txt:20:20
